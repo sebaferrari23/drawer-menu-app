@@ -7,7 +7,7 @@
 
 ## Screenshot 🎞
 
-<img src="/screenshot.gif?raw=true" width="100%">
+<img src="/screenshot.gif?raw=true" width="50%">
 
 ## Developer setup
 
