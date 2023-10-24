@@ -25,7 +25,7 @@ export const DrawerView: React.FC<IDrawerViewProps> = ({ children }) => {
     <Animated.View
       style={[
         animatedStyle,
-        { flex: 1, borderRadius: 40, backgroundColor: colors.white },
+        { flex: 1, borderTopLeftRadius: 40, backgroundColor: colors.white },
       ]}>
       {children}
     </Animated.View>
